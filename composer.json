@@ -1,0 +1,19 @@
+{
+    "name": "progalaa/greeter",
+    "description": "A simple laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "progalaa",
+            "email": "alaa.abdelmonem@areebgroup.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Progalaa\\Greeter\\": "src/"
+        }
+    },
+    "require": {}
+}
